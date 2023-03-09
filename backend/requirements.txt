@@ -1,0 +1,51 @@
+# Used by pip to install required python packages
+# Usage: pip install -r requirements.txt
+# Project implements MySQL, Install MySQL Server 8.0.32 in your environment or connect to RDS on AWS
+
+Flask-Cors == 3.0.6
+alembic==1.4.3
+cachelib==0.10.2
+cffi==1.14.5
+ChatterBot==1.0.4
+chatterbot-corpus==1.2.0
+click==7.1.2
+colorama==0.4.6
+cryptography==3.4.6
+Flask
+Flask-CKEditor==0.4.6
+Flask-Login==0.5.0
+Flask-Migrate==2.7.0
+Flask-Session==0.4.0
+Flask-SQLAlchemy==2.4.4
+Flask-WTF==0.14.3
+greenlet==2.0.2
+gunicorn==20.1.0
+importlib-metadata==6.0.0
+itsdangerous==1.1.0
+Jinja2==2.11.2
+joblib==1.2.0
+Mako==1.1.4
+MarkupSafe==1.1.1
+mathparse==0.1.2
+mysql-connector==2.2.9
+mysql-connector-python==8.0.23
+nltk==3.8.1
+packaging==23.0
+Pint==0.18
+protobuf==3.15.5
+psycopg2==2.9.3
+pycparser==2.20
+pymongo==3.13.0
+PyMySQL==1.0.2
+python-dateutil==2.7.5
+python-editor==1.0.4
+pytz==2022.7.1
+PyYAML==3.13
+regex==2022.10.31
+six==1.15.0
+SQLAlchemy==1.2.19
+tqdm==4.64.1
+typing_extensions==4.5.0
+Werkzeug==1.0.1
+WTForms==2.3.3
+zipp==3.15.0
